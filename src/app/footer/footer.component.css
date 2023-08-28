@@ -1,0 +1,4 @@
+.dark-bg {
+  background-color: rgb(33, 36, 37); /* Cor escura desejada */
+  color: #fff; /* Cor do texto para contrastar com o fundo escuro */
+}

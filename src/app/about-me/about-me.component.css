@@ -1,0 +1,17 @@
+.badge {
+
+display: flex;
+width: 100%;
+justify-content: space-around;
+
+}
+
+.dark-bg {
+  background-color: rgb(33, 36, 37); /* Cor escura desejada */
+  color: #fff; /* Cor do texto para contrastar com o fundo escuro */
+}
+
+.title{
+  display: flex;
+  justify-content:flex-start;
+}

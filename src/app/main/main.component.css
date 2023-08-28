@@ -1,0 +1,13 @@
+.foto-perfil {
+
+  border-radius: 50%;
+  height: 250px;
+  object-fit: cover;
+  width: 250px;
+
+}
+
+.dark-bg {
+  background-color: #3333b5; /* Cor escura desejada */
+  color: #fff; /* Cor do texto para contrastar com o fundo escuro */
+}

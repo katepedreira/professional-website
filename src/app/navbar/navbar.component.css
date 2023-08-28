@@ -1,0 +1,7 @@
+.navbar{
+  background-color: rgb(49, 49, 49);
+}
+
+.navbar-bottom-border {
+  border-bottom: 1px solid #ddd; /* Cor da borda cinza clara */
+}
